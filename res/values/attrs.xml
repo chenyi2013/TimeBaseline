@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TimeBaseLine">
+        <attr name="spacing" format="dimension" />
+        <attr name="selected" format="integer" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="outerCircleWidth" format="dimension" />
+        <attr name="selectedCircleRadius" format="dimension"/>
+        <attr name="selectedInnerCircleWidth" format="dimension"/>
+        <attr name="selectedOuterCircleWidth" format="dimension"/>
+        <attr name="timeBaselineHeight" format="dimension"/>
+    </declare-styleable>
+
+</resources>
